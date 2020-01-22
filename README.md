@@ -27,6 +27,6 @@ SW BOOT0 A8 3.3V
 
 Game Start BOOT0 SW
 
-Move the Cannon with the paddle.
+Move the Cannon with the Right Volume.
 
 Fire beam with BOOT0 SW.
