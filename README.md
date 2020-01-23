@@ -5,9 +5,9 @@ Longan Nano Invader Game
 
 nanovader.zip
 
- +nanovader64KB.bin
+ + nanovader64KB.bin
 
- +nanovader128KB.bin
+ + nanovader128KB.bin
 
 [Sauce]
 
