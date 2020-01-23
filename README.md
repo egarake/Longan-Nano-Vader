@@ -3,9 +3,11 @@ Longan Nano Invader Game
 
 [Farmwear]
 
-nanovader64KB.bin
+nanovader.zip
 
-nanovader128KB.bin
+ +nanovader64KB.bin
+
+ +nanovader128KB.bin
 
 [Sauce]
 
